@@ -10,8 +10,7 @@ $_H_PATED_pt1 NOUN
 $_H_SIM_ku_001.91_pt1 NOUN
 $_H_TDCHK_pt1 NOUN
 $_H_TMDEF_ku_001.90_pt1 NOUN
-% CLAS@SPC
-%@CLAS SPC
+% CLAS
 %ETitle:_Computerized_Numerical_Control_for_Vertical_Milling_Machine_and_CNC_Lathe_ _Milling_Training_Machine_for_Technical_College
 %ETitle:_Design_and_Fabrication_of_GaAs GaAlAs_Light_Emitting_Diodes
 %ETitle:_Fabrication_of_High_Current_Gain_Gao.65AI035AS GaAs_Phototransistor
