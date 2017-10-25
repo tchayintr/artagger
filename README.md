@@ -17,7 +17,7 @@ Current supported languages:
 
 # Installation
 ```bash
-pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip`
+pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip
 ```
 
 # Quick Example
