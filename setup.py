@@ -7,7 +7,7 @@ setup(
     author='Thodsaporn Chay-intr',
     author_email='t.chayintr@icloud.com',
     url='https://github.com/tchayintr/postaggerTC',
-    packages=["artagger", "artagger.InitialTagger", "artagger.SCRDRlearner", "artagger.Utility"],
+    packages=["postaggerTC", "artagger.InitialTagger", "artagger.SCRDRlearner", "artagger.Utility"],
     include_package_data=True,
     license='MIT',
     zip_safe=False,
