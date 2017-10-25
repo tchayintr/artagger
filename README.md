@@ -21,7 +21,7 @@ I never try anything before, but I think there will be no error. If there is an 
 $ > apt-get install libthai-dev
 ```
 
-Installation is really straight forward, you just need to `pip install artagger`
+Installation is really straight forward, you just need to `pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip`
 
 # Quick Example
 Just do a quick example if you want to use this library.
