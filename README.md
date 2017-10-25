@@ -1,28 +1,21 @@
 Forked from https://github.com/franziz/artagger
+
 Models are adjusted
 
 # Tagger
 RDR POS Tagger implementation based on [RDRPOSTagger](http://rdrpostagger.sourceforge.net/)
 
-# Assumption
-This library assume that you are using Python 3.5 or later.
-Assumption:
+# Prerequisites and Limitations
 
- - Python 3.5
+ - Python 3.5 or later
  - Only support 1 sentence
- - The sentence must be tokenized
+ - The sentence must be tokenised
 
 Current supported languages:
 
  - Thai
 
 # Installation
-I never try anything before, but I think there will be no error. If there is an error, you can try to install
-```bash
-$ > apt-get install libthai-dev
-```
-
-Installation is really straight forward, you just need to
 ```bash
 pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip`
 ```
