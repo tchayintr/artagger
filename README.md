@@ -1,4 +1,5 @@
 Forked from https://github.com/franziz/artagger
+Models are adjusted
 
 # Tagger
 RDR POS Tagger implementation based on [RDRPOSTagger](http://rdrpostagger.sourceforge.net/)
@@ -21,7 +22,10 @@ I never try anything before, but I think there will be no error. If there is an 
 $ > apt-get install libthai-dev
 ```
 
-Installation is really straight forward, you just need to `pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip`
+Installation is really straight forward, you just need to
+```bash
+pip3 install https://github.com/tchayintr/postaggerTC/archive/master.zip`
+```
 
 # Quick Example
 Just do a quick example if you want to use this library.
