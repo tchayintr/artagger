@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='artagger',
-    version='0.1.2',
+    name='postaggerTC',
+    version='0.1',
     description='RDRPOSTagger Implementation.',
-    author='Frans Huang',
-    author_email='franssiswanto@gmail.com',
-    url='https://github.com/franziz/artagger/',
+    author='Thodsaporn Chay-intr',
+    author_email='t.chayintr@icloud.com',
+    url='https://github.com/tchayintr/postaggerTC',
     packages=["artagger", "artagger.InitialTagger", "artagger.SCRDRlearner", "artagger.Utility"],
     include_package_data=True,
     license='MIT',

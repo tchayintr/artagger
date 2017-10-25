@@ -1,9 +1,10 @@
+Forked from https://github.com/franziz/artagger
+
 # Tagger
 RDR POS Tagger implementation based on [RDRPOSTagger](http://rdrpostagger.sourceforge.net/)
 
 # Assumption
-This library assume that you are using Python 3.5 or later. Honestly, I have not tried to install this library on Python 2.7. You can try if you want to contribute.
-
+This library assume that you are using Python 3.5 or later.
 Assumption:
 
  - Python 3.5
@@ -12,7 +13,7 @@ Assumption:
 
 Current supported languages:
 
- - Thailand
+ - Thai
 
 # Installation
 I never try anything before, but I think there will be no error. If there is an error, you can try to install
