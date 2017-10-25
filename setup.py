@@ -7,7 +7,7 @@ setup(
     author='Thodsaporn Chay-intr',
     author_email='t.chayintr@icloud.com',
     url='https://github.com/tchayintr/postaggerTC',
-    packages=["postaggerTC", "postaggerTC.InitialTagger", "postaggerTC.SCRDRlearner", "postaggerTC.Utility"],
+    packages=["postaggerTC", "postaggerTC.InitialTagger", "postaggerTC.SCRDRlearner", "postaggerTC.Utility", "postaggerTC.Models"],
     include_package_data=True,
     license='MIT',
     zip_safe=False,
